@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Data>
+  <Window Port="9000" Screen="0,0,1024,500" CirPlay="True" HideCusor="False" TopMost="False" />
+  <Light Enable="True" LightID="1" RemoteIP="192.168.1.109" LightPort="1,2,3,4,5,6,7" LightInit="NC" />
+</Data>
